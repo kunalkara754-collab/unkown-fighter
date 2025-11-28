@@ -118,6 +118,8 @@ gcc converter.c -o converter
 ------------------------------------------------------------------------
 
 ## 🎯 **Conclusion**
+## output
+
 
 This currency converter project is perfect for beginners learning **C
 programming basics**, including input/output, menu-driven programs,
