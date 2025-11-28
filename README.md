@@ -119,10 +119,7 @@ gcc converter.c -o converter
 
 ## 🎯 **Conclusion**
 ## output
+![image](https://github.com/kunalkara754-collab/unkown-fighter/blob/4475935c0f584ec5c007d48f12c04f39b2ad7055/Screenshot%202025-11-28%20125440.png)
+![image](https://github.com/kunalkara754-collab/unkown-fighter/blob/4475935c0f584ec5c007d48f12c04f39b2ad7055/Screenshot%202025-11-28%20125440.png)
+![image](https://github.com/kunalkara754-collab/unkown-fighter/blob/4475935c0f584ec5c007d48f12c04f39b2ad7055/Screenshot%202025-11-28%20125440.png)
 
-
-This currency converter project is perfect for beginners learning **C
-programming basics**, including input/output, menu-driven programs,
-switch statements, and arithmetic operations.
-
-Feel free to enhance or customize the program! 🚀
